@@ -1,3 +1,5 @@
+This repository has been migrated. For ongoing updates, please see https://github.com/thinkjs/thinkjs/tree/master/packages/think-session-jwt.
+
 # think-session-jwt
 JsonWebToken to store session for ThinkJS 3.x base on [node-jsonwebtoken](https://github.com/auth0/node-jsonwebtoken)
 
